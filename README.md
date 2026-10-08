@@ -40,6 +40,5 @@ Below are the main projects and case studies showcasing my technical capabilitie
 * **Tools & Environment:** Git, Visual Studio Code, Data Documentation
 
 ## 📬 Let's Connect
-* **Email:** [Masukkan Email Anda Di Sini]
-* **LinkedIn:** [Masukkan URL LinkedIn Anda Di Sini]
-* **Upwork:** [Masukkan URL Profil Upwork Anda Di Sini]
+* **Email:** [pangpotokeunid@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/naufal-pratama-roriangga-b17853390]
